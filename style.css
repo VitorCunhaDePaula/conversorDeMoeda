@@ -1,0 +1,37 @@
+body {
+    background-color: #D3D3D3; /* Fundo branco */
+    color: #000000; /* Texto preto */
+    font-family: 'Ubuntu', sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-image: url(https://ddgimgs-f43e.kxcdn.com/2169838/babdcp_6dfd639b6fb30f315101f0b0aa98d7faf8c8abff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main{
+    height: 5em;
+    width: 20em;
+    background-color: #FFD700;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 0 2em rgba(0, 0, 0, 0.5);
+  
+  
+}
+
+.conversor{
+    display: flex;
+    gap: 1em;
+    
+}
+
+
+
+
+.result{
+   
+    margin-top: 1em;
+}
+
